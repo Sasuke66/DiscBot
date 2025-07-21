@@ -1,6 +1,8 @@
 import discord
 import os
 from dotenv import load_dotenv
+from keep_alive import keep_alive
+keep_alive()
 
 # Load the TOKEN from .env
 load_dotenv()
