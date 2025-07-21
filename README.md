@@ -22,7 +22,6 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 ---
 
 ## Setup Instructions
-
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/your-username/PriBotMain.git

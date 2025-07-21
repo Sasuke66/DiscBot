@@ -17,6 +17,7 @@ client = discord.Client(intents=intents)
 # Replace with your server's welcome channel ID
 WELCOME_CHANNEL_ID = 1396564206890909776  # <--- CHANGE THIS
 
+
 @client.event
 async def on_ready():
     print(f'✅ PriBotMain is online as {client.user}')
