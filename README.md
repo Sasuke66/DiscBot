@@ -13,3 +13,6 @@
 
 ## Disclaimer
 PriBotMain is a private-use bot and not intended for public distribution.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
