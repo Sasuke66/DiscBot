@@ -13,11 +13,11 @@ It features basic commands such as greetings, help messages, privacy information
 - 🆘 Provide help with `$help`
 - 🔒 Display a privacy disclaimer with `$privacy`
 - 🎉 Welcome new members automatically to your Discord server
-
+<!-- 
 ---
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details. -->
 
 ---
 
